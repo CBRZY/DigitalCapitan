@@ -16,7 +16,7 @@
 </div>
 
 ## Launched 🚀 Apps
-<a href="https://play.google.com/store/apps/dev?id=5866919437838931780"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" height="250"><a/>
+<a target="_blank" href="https://play.google.com/store/apps/dev?id=5866919437838931780"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" height="250"><a/>
 
 ## Join Flutter Help to be part of the community
 [FlutterHelp](https://www.facebook.com/groups/FlutterHelp)
