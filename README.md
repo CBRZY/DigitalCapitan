@@ -20,7 +20,6 @@
 <a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" height="100"><a/>
 
 ## Join Flutter Help to be part of the community
-[FlutterHelp](https://www.facebook.com/groups/FlutterHelp)
 <a href="https://www.facebook.com/groups/FlutterHelp" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110436576-23784600-8100-11eb-8e9e-48e79d6c543a.jpg" height="100"><a/>
 
 
