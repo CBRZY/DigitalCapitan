@@ -17,11 +17,15 @@
 </div>
 
 ## Launched 🚀 Apps
-<a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" height="250"><a/>
+<a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" height="100"><a/>
 
 ## Join Flutter Help to be part of the community
 [FlutterHelp](https://www.facebook.com/groups/FlutterHelp)
+<a href="https://www.facebook.com/groups/FlutterHelp" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110436576-23784600-8100-11eb-8e9e-48e79d6c543a.jpg" height="100"><a/>
+
 
 ## You can find me on
-[LinkedIn](https://www.linkedin.com/in/christo-brits-98a50b79/) [Instagram](https://www.instagram.com/cbrzy_/) [Twitter](https://twitter.com/Cpt_CBRZY)
+<a href="https://www.linkedin.com/in/christo-brits-98a50b79/" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110436787-5de1e300-8100-11eb-8806-a54f083c47aa.png" height="50"><a/>
+<a href="https://www.instagram.com/cbrzy_/" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110436925-836eec80-8100-11eb-96b0-38f06b457db3.png" height="50"><a/>
+<a href="https://twitter.com/Cpt_CBRZY" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110436967-908bdb80-8100-11eb-9a81-477ac6761d47.png" height="50"><a/>
 
