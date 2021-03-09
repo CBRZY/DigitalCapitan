@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on a Flutter Open-Source project!
 - 🤔 I’m looking for help with World 🌏 Domination 
-- 💬 Ask me about My current Flutter projects
+- 💬 Ask me about my current Flutter projects
 - 📫 How to reach me: LinkedIn
 
 ## Languages & Tools
