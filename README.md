@@ -16,6 +16,13 @@
   <img src=https://user-images.githubusercontent.com/55442748/110436364-dd22e700-80ff-11eb-8f25-26964b459ba5.png height="50">
 </div>
 
+## Current Project Overview
+- 📱 Flutter mobile application
+- 📷 Uses the device's camera to read characters
+- 🧩 Data is interpreted and run through an algorithm to solve puzzles
+<p>This experiment will lead to a bigger application aimed at vehicle navigation</p>
+
+
 ## Launched 🚀 Apps
 <a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" width="250"><a/>
 
