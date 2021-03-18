@@ -1,7 +1,7 @@
 ## Ahoy 👋
 
 - 👨‍💻 I’m currently working on mobile apps 📱 to make life easier
-- 🌱 I’m currently upgrading my NodeJS skills
+- 🌱 I’m currently upgrading my Functional Programming skills
 - 👯 I’m looking to collaborate on a Flutter or Unity Open-Source project!
 - 🤔 I’m looking for help with World 🌏 Domination 
 - 💬 Ask me about my current Flutter projects
